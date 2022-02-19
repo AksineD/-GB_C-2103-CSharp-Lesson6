@@ -1,1 +1,1 @@
-# -GB_C-2103-CSharp-Lesson6
+# GB_C-2103-CSharp-Lesson6
